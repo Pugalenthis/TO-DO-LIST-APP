@@ -34,7 +34,7 @@ function App() {
           </div>
         </div>
       </div>
-      {copytask.map((event)=><Tdlist task= {event}/>)}x
+      {copytask.map((event)=><Tdlist task= {event}/>)}
     </div>
   );
 }
